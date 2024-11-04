@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://isikiude.github.io/IwV/sitemap_index.txt
+Sitemap: https://isikiude.github.io/Jqo/sitemap_index.txt
+Sitemap: https://isikiude.github.io/LEW/sitemap_index.txt
+Sitemap: https://isikiude.github.io/niO/sitemap_index.txt
